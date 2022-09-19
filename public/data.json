@@ -1,0 +1,207 @@
+[
+    {
+        "name":"PATHOLOGY LICENSE (DG HEALTH)",
+        "id":"1",
+        "comilla":"done",
+        "dhakaB":"done",
+        "dhaka2":"done",
+        "barishal":"done",
+        "cox":"done"
+    },
+    {
+        "name":"X-RAY LICENCE (BANGLADESH ATOMIC ENERGY COMMISSION",
+        "id":"2",
+        "comilla":"done",
+        "dhakaB":"done",
+        "dhaka2":"done",
+        "barishal":"done",
+        "cox":"done"
+    },
+    {
+        "name":"ENVIRONMENT CERTIFICATE (DEPARTMENT OF ENVIRONMENT)",
+        "id":"3",
+        "comilla":"done",
+        "dhakaB":"done",
+        "dhaka2":"done",
+        "barishal":"done",
+        "cox":"done"
+    },
+    {
+        "name":"MEDICAL WASTE MANAGEMENT AGREEMENT (MWM)",
+        "id":"4",
+        "comilla":"done",
+        "dhakaB":"done",
+        "dhaka2":"done",
+        "barishal":"done",
+        "cox":"done"
+    },
+    {
+        "name":"QUALITY ASSURANCE CERTIFICATE",
+        "id":"5",
+        "comilla":"done",
+        "dhakaB":"done",
+        "dhaka2":"done",
+        "barishal":"done",
+        "cox":"done"
+    },
+    {
+        "name":"FIRE LICENSE",
+        "id":"6",
+        "comilla":"done",
+        "dhakaB":"done",
+        "dhaka2":"done",
+        "barishal":"done",
+        "cox":"done"
+    },
+    {
+        "name":"TRADE LICENSE",
+        "id":"7",
+        "comilla":{
+            "status":"done",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"7"
+   },
+        "dhakaB":{
+            "status":"done",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"7"
+        },
+        "dhaka2":{
+            "status":"done",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"7"
+        
+        },
+        "barishal":{
+            "status":"Incomplete",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"7"
+        
+        },
+        "cox":{
+            "status":"In Progress",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"7"
+        
+        }
+    },
+    {
+        "name":"RENT DEED",
+        "id":"8",
+        "comilla":{
+            "status":"Incomplete",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"8"
+        
+        },
+        "dhakaB":{
+            "status":"Incomplete",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"8"
+        
+        },
+        "dhaka2":{
+            "status":"Incomplete",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"8"
+        
+        },
+        "barishal":{
+            "status":"Incomplete",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"8"
+        
+        },
+        "cox":{
+            "status":"Incomplete",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"8"
+        
+        }
+    },
+    {
+        "name":"KOL KARKHANA INSPECTION AUTHORITY",
+        "id":"9",
+        "comilla":{
+            "status":"Done",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"9"
+        
+        },
+        "dhakaB":{
+            "status":"Incomplete",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"9"
+        
+        },
+        "dhaka2":{
+            "status":"Incomplete",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"9"
+        
+        },
+        "barishal":{
+            "status":"Incomplete",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"9"
+        
+        },
+        "cox":{
+            "status":"Incomplete",
+            "date":"2019-01-01",
+            "expire":"2019-01-01",
+            "id":"9"
+        
+        }
+    },
+    {
+        "name":"TIN / TAX CERTIFICATE ",
+        "id":"10",
+        "comilla":"done",
+        "dhakaB":"done",
+        "dhaka2":"done",
+        "barishal":"done",
+        "cox":"done"
+    },
+    {
+        "name":"BIN / VAT REGISTRATION CERTIFICATE",
+        "id":"11",
+        "comilla":"done",
+        "dhakaB":"done",
+        "dhaka2":"done",
+        "barishal":"done",
+        "cox":"done"
+    },
+    {
+        "name":"CERTIFICATE OF INCORPORATION FOR LIMITED COMPANY",
+        "id":"12",
+        "comilla":"done",
+        "dhakaB":"done",
+        "dhaka2":"done",
+        "barishal":"done",
+        "cox":"done"
+    },
+    {
+        "name":"APPROVED LAYOUT PLAN FOR ELECTRIC WIRING",
+        "id":"13",
+        "comilla":"done",
+        "dhakaB":"done",
+        "dhaka2":"done",
+        "barishal":"done",
+        "cox":"done"
+    }
+]
