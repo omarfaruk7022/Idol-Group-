@@ -6,7 +6,7 @@ const DistrictDetail = () => {
  const { id } = useParams();
 
 useEffect(() => {
-    fetch(`http://localhost:5000/documents/${_id}/districtDetail/${id}`)
+    fetch(`http://localhost:5000/districtDetail/${id}`)
     .then((res) => res.json())
     .then((data) => setDistrictDetail(data));
 }, [id]);
