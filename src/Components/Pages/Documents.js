@@ -51,7 +51,7 @@ useEffect(()=>{
                  {document?.name}
                 </td>
                 <td class=" py-2 text-gray-700 whitespace-nowrap">
-                  {document?.comilla}
+                  {document?.comilla?.status}
                   <span>
                     <button className="underline text-purple-400 ml-2" onClick={() => navigate(`/details/${document._id}`)} >
                    
@@ -61,7 +61,7 @@ useEffect(()=>{
                   </span>
                 </td>
                 <td class="py-2 text-gray-700 whitespace-nowrap">
-                  {document?.dhakaB}
+                  {document?.dhakaB?.status}
                   <span>
                     <button className="underline text-purple-400 ml-2" onClick={() => navigate(`/details/${document._id}`)} >
                       See more
@@ -69,7 +69,7 @@ useEffect(()=>{
                   </span>
                 </td>
                 <td class=" py-2 text-gray-700 whitespace-nowrap">
-                  {document?.dhaka2}
+                  {document?.dhaka2?.status}
                   <span>
                     <button className="underline text-purple-400 ml-2" onClick={() => navigate(`/details/${document._id}`)} >
                       See more
@@ -77,7 +77,7 @@ useEffect(()=>{
                   </span>
                 </td>
                 <td class="py-2 text-gray-700 whitespace-nowrap">
-                  {document?.barishal}
+                  {document?.barishal?.status}
                   <span>
                     <button className="underline text-purple-400 ml-2" onClick={() => navigate(`/details/${document._id}`)} >
                       See more
@@ -85,7 +85,7 @@ useEffect(()=>{
                   </span>
                 </td>
                 <td class="py-2 text-gray-700 whitespace-nowrap">
-                  {document?.cox}
+                  {document?.cox?.status}
                   <span>
                     <button className="underline text-purple-400 ml-2" onClick={() => navigate(`/details/${document._id}`)} >
                       See more

@@ -2,9 +2,9 @@ import { Route, Routes } from "react-router-dom";
 import Dashboard from "./Components/Dashboard/Dashboard";
 import ProfileInfo from "./Components/Dashboard/ProfileInfo";
 import Detail from "./Components/Pages/Detail";
+import DistrictDetail from "./Components/Pages/DistrictDetail";
 import Home from "./Components/Pages/Home";
 import Login from "./Components/Pages/Login";
-import Signup from "./Components/Pages/Signup";
 import Test from "./Components/Pages/Test";
 import Footer from "./Components/Shared/Footer";
 import Navbar from "./Components/Shared/Navbar";
@@ -19,6 +19,7 @@ function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Test />} />
         <Route path="/details/:_id" element={<Detail />} />
+        <Route path="/details/:_id/districtDetails/:id" element={<DistrictDetail />} />
         <Route
           path="dashboard"
           element={
